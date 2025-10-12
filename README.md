@@ -33,5 +33,12 @@
   <img src="https://ghchart.rshah.org/01Maya" alt="01Maya's GitHub Contribution Heatmap"/>
 </p>
 
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=01Maya)](https://git.io/streak-stats)
+
+</div>
+
 ----
 
