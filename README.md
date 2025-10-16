@@ -28,11 +28,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=01maya&label=Profile%20views&color=0e75b6&style=flat" alt="01maya" /> </p>
 
-
+<!--
 <p align="center">
   <img src="https://ghchart.rshah.org/01Maya" alt="01Maya's GitHub Contribution Heatmap"/>
 </p>
-
+-->
 
 <div align="center">
 
